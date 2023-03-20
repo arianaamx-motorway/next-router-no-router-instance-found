@@ -5,9 +5,9 @@
 </p>
 
 <a
-  href="https://stackblitz.com/github/storybookjs/sandboxes/tree/next/nextjs/12-js/after-storybook?preset=node"
-  >View it in Stackblitz</a
->
+  href="https://stackblitz.com/github/arianaamx-motorway/next-router-no-router-instance-found?file=stories%2Fpages%2FHomePage%2FHomePage.tsx">
+  View it in Stackblitz</a>
+
 
 <h3>Testing instructions</h3>
 
